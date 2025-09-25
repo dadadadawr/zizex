@@ -49,7 +49,7 @@ int main()
 	int eur = 0;
 	int uan = 0;
 	int far = 0;
-	int ien = 0.5;
+	int ien = 0;
 	int one;
 	double ddd;
 	char zxc = 'y';
